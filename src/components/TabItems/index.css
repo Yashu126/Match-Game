@@ -1,0 +1,23 @@
+li {
+  list-style-type: none;
+  font-size: 16px;
+}
+
+.tab-btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: #fec653;
+  margin: 3px;
+  border-bottom: 2px solid #fec653;
+}
+
+.nrl-btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: #ffffff;
+  margin: 3px;
+}

@@ -1,0 +1,33 @@
+.nav-bar {
+  background-color: #2c0e3a;
+  padding: 0px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #ffffff;
+}
+.img-logo {
+  width: 150px;
+}
+
+.score-time-con {
+  width: 160px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 15px;
+  padding-left: 0px;
+}
+
+li {
+  list-style-type: none;
+}
+
+.timmer-img {
+  display: flex;
+  align-items: center;
+}
+
+.span {
+  color: #fec653;
+}
